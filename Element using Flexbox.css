@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .red {
+    padding: 0.5rem;
+    background-color: red;
+  }
+  
+  .blue {
+    padding: 1rem;
+    background-color: lightblue;
+  }
+
+
